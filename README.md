@@ -1,3 +1,3 @@
 # URLchecker
 
-A program to check the status of a URL
+A program to check the response code of a URL
